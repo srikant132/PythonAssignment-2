@@ -1,3 +1,3 @@
-# PythonAssignment-2
-PythonAssignment-2
+
+PythonDataStructuresAssignment-2
 ![PythonAssignment2](/PythonAssignment2.PNG)
